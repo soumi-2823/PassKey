@@ -1,4 +1,4 @@
-# PassKey 🔐 – A React-based Password Manager
+# PassKey 🔐 – A Password Manager
 
 **PassKey** is a secure and user-friendly password manager built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to save, update, and delete their website credentials safely.
 
